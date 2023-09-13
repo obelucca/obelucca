@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋 Olá, sou o Cleber! 👨‍💻
 
-<!--
-**obelucca/obelucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Tenho 20 anos de idade e estou pronto para mostrar minhas habilidades incríveis! ✨
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💼 Skills 💼
+
+- 🌐 Desenvolvimento Web: PHP, Bootstrap, Angular, HTML, CSS
+- 🐍 Desenvolvimento Python: Python
+- 📊 Banco de Dados: SQL
+- 💻 Desenvolvimento de Software: C#, .NET
+  
+#### 💡 Meu Objetivo 💡
+
+🚀 Meu objetivo é continuar aprendendo e crescendo como desenvolvedor, contribuindo para projetos emocionantes e desafiadores. Estou ansioso para colaborar com você! 🚀
+
+#### 📫 Como me encontrar 📫
+
+- 🌐 LinkedIn: [CleberLinkedIn](https://www.linkedin.com/in/cleber-lucas-519967181/)
+- 📧 E-mail: [cleber@email.com](mailto:jobs.cleberr@gmail.com)
+- 🌟 GitHub: [CleberGitHub](https://github.com/obelucca)
+
+### 🤝 Vamos nos conectar e criar coisas incríveis juntos! 🤝
