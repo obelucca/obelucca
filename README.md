@@ -1,7 +1,6 @@
 ### 👋 Olá, sou o Cleber! 👨‍💻
 
-✨ Tenho 20 anos de idade e estou pronto para mostrar minhas habilidades! ✨
-
+✨ Tenho 21 anos, estou cursando Engenharia de Software. 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&theme=tokyonight"/>
@@ -11,7 +10,7 @@
 
 - 🌐 Desenvolvimento Web: PHP, Bootstrap, Angular, HTML, CSS
 - 📊 Banco de Dados: SQL
-- 💻 Desenvolvimento de Software: C#, .NET
+- 💻 Desenvolvimento de Software: C#, .NET, Python
   
 #### 💡 Meu Objetivo 💡
 
