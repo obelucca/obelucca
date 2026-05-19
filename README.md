@@ -1,25 +1,72 @@
-### 👋 Olá, sou o Cleber! 👨‍💻
+# 👋 Olá, eu sou o Cleber Lucas
 
-✨ Tenho 21 anos, estou cursando Engenharia de Software. 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&theme=tokyonight"/>
-</div>
+💻 Desenvolvedor Web focado em construir soluções reais através da tecnologia.
 
-#### 💼 Skills 💼
+Atualmente atuo com desenvolvimento web utilizando PHP, JavaScript, APIs REST, Docker e boas práticas de desenvolvimento, sempre buscando evoluir tecnicamente e melhorar processos através da tecnologia.
 
-- 🌐 Desenvolvimento Web: PHP, Bootstrap, Angular, HTML, CSS
-- 📊 Banco de Dados: SQL
-- 💻 Desenvolvimento de Software: C#, .NET, Python
-  
-#### 💡 Meu Objetivo 💡
+Minha trajetória começou na infraestrutura e suporte técnico, evoluindo naturalmente para desenvolvimento de software, automação e soluções com IA.
 
-🚀 Meu objetivo é continuar aprendendo e crescendo como desenvolvedor, contribuindo para projetos emocionantes e desafiadores. Estou ansioso para colaborar com você! 🚀
+Acredito muito no conceito de **Build and Learn** — aprender construindo, experimentando e evoluindo continuamente através da prática.
 
-#### 📫 Como me encontrar 📫
+---
 
-- 🌐 LinkedIn: [Cleber Lucas](https://www.linkedin.com/in/cleber-lucas-519967181/)
-- 📧 E-mail: [jobs.cleberr](mailto:jobs.cleberr@gmail.com)
+## 🚀 Tecnologias & Interesses
+
+### 🌐 Desenvolvimento Web
+- PHP
+- JavaScript
+- HTML & CSS
+- Bootstrap
+- Angular
+- APIs REST
+
+### ⚙️ Backend & Infraestrutura
+- Docker
+- SQL
+- Git
+- Linux
+- VPS & Coolify
+
+### 🤖 Software & IA
+- Python
+- C# / .NET
+- Aplicações RAG
+- Integração com LLMs e SLMs
+- IA aplicada à otimização de processos
+
+---
+
+## 🧠 Projeto em Destaque
+
+### Agente RAG para Suporte Interno
+
+Desenvolvimento de um agente RAG treinado com centenas de POPs e documentações internas para otimizar processos de suporte técnico e aumentar a produtividade operacional da equipe.
+
+**Stack utilizada:**  
+`Python` • `Discord.py` • `LLM` • `SLM` • `VPS` • `Coolify`
+
+---
+
+## 📚 Atualmente Estudando
+- Arquitetura de Software
+- IA aplicada ao desenvolvimento
+- Cloud Computing
+- Ecossistema Java
+- Microsserviços
+
+---
+
+## 🌎 Onde me encontrar
+
+- 💼 LinkedIn: [Cleber Lucas](https://www.linkedin.com/in/devcleberlucas/)
+- 📧 E-mail: [jobs.cleberr@gmail.com](mailto:jobs.cleberr@gmail.com)
 - 🌟 GitHub: [obelucca](https://github.com/obelucca)
 
-### 🤝 Vamos nos conectar e criar coisas incríveis juntos! 🤝
+---
+
+## 📊 Estatísticas GitHub
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&theme=tokyonight"/>
+</div>
