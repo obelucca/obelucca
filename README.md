@@ -66,7 +66,8 @@ Desenvolvimento de um agente RAG treinado com centenas de POPs e documentações
 
 ## 📊 Estatísticas GitHub
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obelucca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obelucca&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
